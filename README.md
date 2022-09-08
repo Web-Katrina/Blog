@@ -39,7 +39,7 @@ https://juejin.cn/post/7097061705124954120
 
 https://juejin.cn/post/7089643229464756238
 
-从内存来看null和undefined本质的区别是什么
+从内存来看 null 和 undefined 本质的区别是什么
 
 https://juejin.cn/post/7088946719039324173
 
